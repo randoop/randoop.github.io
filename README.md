@@ -1,2 +1,2 @@
 # randoop.github.io
-Organization pages
+Randoop organization webpages
